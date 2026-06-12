@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>My Tools Corp</title>
+<title>My Tools Corp(v:1.1)</title>
 <style>
 body {
     margin: 0;
