@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>My Tools Corp</title>
+<title>My Tools Corp(v:1.1)</title>
 <style>
 body {
     margin: 0;
@@ -33,7 +33,7 @@ a:hover {
 <body>
 
 <div class="container">
-    <h1>My Tools Corp</h1>
+    <h1>My Tools Corp-v:1.2</h1>
     <p>Select a tool</p>
     <p>i am Bhavana</p>
 
