@@ -35,6 +35,7 @@ a:hover {
 <div class="container">
     <h1>My Tools Corp</h1>
     <p>Select a tool</p>
+    <p>Hi, welcome!</p>
 
     <a href="tasks">Task Manager</a>
     <a href="calculator.jsp">Calculator</a>
