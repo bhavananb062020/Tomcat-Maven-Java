@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>My Tools Corp(v:1.1)</title>
+<title>My Tools Corp</title>
 <style>
 body {
     margin: 0;
@@ -33,9 +33,8 @@ a:hover {
 <body>
 
 <div class="container">
-    <h1>My Tools Corp-v:1.2</h1>
+    <h1>My Tools Corp</h1>
     <p>Select a tool</p>
-    <p>i am Bhavana</p>
 
     <a href="tasks">Task Manager</a>
     <a href="calculator.jsp">Calculator</a>
